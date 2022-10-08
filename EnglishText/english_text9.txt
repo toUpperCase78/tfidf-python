@@ -1,0 +1,58 @@
+To Bond With Humans, Robots Are Learning to Laugh at the Right Time
+
+It's no joke. Scientists are teaching robots the nuances of laughter.
+
+Anyone who's shared a laugh with a friend knows how deeply bonding humor can be, so it stands to reason our future robot
+companions have a better chance of winning our trust and affection if they can laugh with us.
+
+But just because a robot tells jokes doesn't mean it can respond to them appropriately. Did a comment warrant a polite robot
+giggle or an all-out bot belly laugh? The right response could mean the difference between an approachable android and
+a metallic boor.
+
+That's why Japanese researchers are attempting to teach humorless robot nerds to laugh at the right time and in the right way.
+Turns out training an AI to laugh isn't as simple as teaching it to respond to a desperate phone tree plea to cancel a
+subscription. "Systems that try to emulate everyday conversation still struggle with the notion of when to laugh," reads
+a study published Thursday in the journal Frontiers in Robotics and AI.
+
+The study details the team's research into developing an AI conversational system focused on shared laughter to make chatter
+between humans and robots more natural. They envision it being integrated into existing conversational software for robots
+and agents, which are already learning to detect emotions and deal with open-ended complexity like vague human commands.
+
+"We think one of the important functions of conversational AI is empathy," Koji Inoue, an assistant professor of informatics,
+at Japan's Kyoto University and the study's co-author, said in a statement. "Conversation is, of course, multimodal, not just
+responding correctly. So we decided that one way a robot cam emphatize with users is to share their laughter."
+
+The key is that the system not only recognizes laughter, it also decides whether to laugh in response and then chooses the
+right type of laughter for the occasion. "The most siginifcant result of this paper is that we have shown we can combine all
+three of these tasks into one robot," Inoue said. "We believe that this type of combined system is necessary for proper
+laughing behavior, not simply just detecting a laugh and responding to it."
+
+To gather training data on the frequency and types of shared laughter, the team tapped Erica, an advanced humanoid robot
+designed by Japanese scientists Hiroshi Ishiguro and Kohei Ogawa, as a platform for studying human-robot interaction. Erica can
+understand natural language, has a synthesized human voice and can blink and move her eyes when listening to humans go on
+about their people problems.
+
+The researchers recorded dialogue between male Kyoto University students who took turns chatting face-to-face with Erica
+as amateur actresses in another room teleoperated the bot via microphone. The scientists chose that setup knowing there'd
+naturally be differences between how humans talk with each other and how they walk with robots, even those controlled
+by another human.
+
+"We wanted, as much as possible, to have the laughter model trained under the similar conditions to a real human-robot
+interaction," Kyoto University researcher Divesh Lala, another co-author of the study, told me.
+
+Based on the interactions, the researchers created four short audio dialogues between humans and Erica, who was programmed
+to respond to conversations with varying levels of laughter, from none at all to frequent chuckles in response to her human
+conversational buddies. Volunteers then rated those interludes on empathy, naturalness, likeness to humans, and
+understanding. The shared laughter scenarios performed better than the ones where Erica never laughs or laughs every time
+she detects a human laugh without using the other two subsysteös to filter context and response.
+
+The Kyoto University researchers have already programmed their shared laughter system into robots besides Erica, though they
+say the humanoid howls could still be more natural sounding. Indeed, even as robots becoming increasingly lifelike,
+sometimes unsettlingly so, roboticists concede that infusing them with their own distinct humanlike traits poses challenges
+that go beyond coding.
+
+"It may well take more than 10 to 20 years before we can finally have a casual chat with robot like we would with a friend,"
+Inoue said.
+
+Erica, needless to say, isn't ready for the stand-up circuit yet. But it's intriguing to think there may soon come a day
+when it truly feels like she gets your jokes.

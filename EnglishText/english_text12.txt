@@ -1,0 +1,22 @@
+Xbox Series X Update Finally Makes Xbox One Game Discs Playable Offline
+
+You won't need to be online to play your Xbox One game discs on an Xbox Series X console.
+
+A recent Xbox Series X update has changed a DRM feature on that console, as you'll now be able to play Xbox One discs on the
+current-gen console without needing to be connected to the internet. Microsoft confirmed online check-ins will no longer be
+required thanks to the update, which had been spotted by fans earlier this month.
+
+"This is true since the 2206 update," Xbox engineering lead Eden Marie tweeted." We examined date since Series X|S launch
+and determined the online compatibility check isn't needed in the vast majority of cases for Xbox One discs. Some games may
+still need to be updated online after install to ensure the best experience."
+
+The patch notes for the 2206 updates - which rolled out in June and July - vaguely mentioned "general stability and performance
+improvements" that have become the norm with these updates. The change to Xbox One DRM brings those last-gen games in line with
+Xbox Series X|S titles, as those discs are also playable on the console without an online connection.
+
+You'll still need an internet connection for the classic Xbox and Xbox 360 backwards compatibility games due to the
+authentication setup of that library, but this new update will make a huge number of Xbox One titles - many of which have
+Smart Delivery upgrades available - more accessible to users who don't always have a reliable online connection.
+
+In other Xbox news, Microsoft Gaming CEO Phil Spencer confirmed that there won't be a price increase for Xbox Series X|S
+consoles, Xbox might acquire more studios in the future, and you can read up on how to connect Discord to your Xbox console.

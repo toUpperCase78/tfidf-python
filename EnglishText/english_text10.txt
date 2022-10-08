@@ -1,0 +1,53 @@
+James Webb Space Telescope Sees Mars in a New Light
+
+Webb could earn Mars a new nickname: the infrared planet.
+
+We have a standard vision of what Mars looks like as a reddish, rocky planet, like in this Hubble image. The James Webb Space
+Telescope, however, sees the universe in infrared. Its first observations of Mars show how it'll be able to investigate the
+red planet in exciting new ways.
+
+JWST is built to gaze deep into the universe, using infrared to penetrate dust and see objects that hide from other telescopes.
+But it's also useful for learning more about our planetary neighbors. On Sept. 5, Webb looked at Mars and gathered data with
+its Near-Infrared Camera, and NIRCam.
+
+Webb was able to see the side of Mars that was facing the telescope, called the observable disk. "As a result, Webb can capture
+images and spectra with the spectral resolution needed to study short-term phenomena like dust storms, weather patterns,
+seasonal changes, and, in a single observation, processes that occur at different times (daytime, sunset and nighttime) of a 
+Martian day," said NASA in a statement Monday.
+
+NASA released a graphic showing what Webb could see in two different wavelenghts of infrared light. It brings home Webb's
+versatility and shows shorter and longer infrared wavelenghts can generate different sets of data. Here's a crash course in
+how Webb's infrared imaging works.
+
+The brownish view of Mars on the left is a reference map. Track over to the right for what Webb saw. The upper image is a 
+shorter-wavelength (2.1 microns) view showing a chunk of the planet that includes the surface features of Huygens Crater,
+Hellas Basin and Syrtis Major, an area that appears as a dark sport in visible-light images.
+
+The lower Webb image is like a "heat map". This is what appears when Webb uses a longer-wavelength (4.3 microns) view. The
+brightest part is where the sun is overhead, warming that area. "The brightness decreases toward the polar regions, which
+receive less sunlight, and less light is emitted from the cooler northern hemisphere, which is experiencing winter at
+this time of year," said NASA.
+
+Look close at that yellow-purple observation and you'll see where NASA points out Hellas Basin, which appears darker than the
+surrounding area. So what's going on there? It's Mars atmosphere at work. Carbon dioxide molecules absorb some of the
+infrared light before it reaches Webb, giving the massive impact structure - a whopping 1200 miles (2000 kilometers) across -
+a darker hue.
+
+"The Hellas Basin is a lower altitude, and thus experiences higher air pressure," explained principal investigator Geronimo
+Villanueva. "That higher pressure leads to a suppression of the thermal emission at this particular wavelength range
+[4.1-4.4 microns] due to an effect called pressure broadening."
+
+Om top of all that NIRCam infrared goodness, Webb also used its Near-Infrared Spectrograph (NIRSpec) instrument to gather data
+on the water, carbon dioxide and carbon monoxide in the planet's atmosphere. "Preliminary analysis of the spectrum shows a
+rich set of spectral features that contain information about dust, icy clouds, what kind of rocks are on the planet's surface,
+and the composition of the atmosphere," said NASA.
+
+Webb is jointly run by NASA, the European Space Agency and the Canadian Space Agency. NASA emphasized that the telescope's Mars
+data is meant to highlight science in progress. Scientists are still analyzing the NIRSpec information to learn more about the
+red planet's surface and atmosphere. The results will be written up in a study and submitted for peer review.
+
+Mars was a challenging observation for Webb because the planet is so close that it runs the danger of "blinding" the telescope
+with its bright infrared light. The JWST team pulled it off by using short exposures and special data analysis techniques.
+
+These early results show how Webb is more than a long-distance telescope. It promises to help scientists build a more complete
+picture of neighboring Mars.

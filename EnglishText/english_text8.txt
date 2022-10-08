@@ -1,0 +1,70 @@
+Smart Headlights Are Around The Corner, to the Relief of That Driver You're Blinding
+
+Whether newly legal adpative headlights will widespread or just for luxury cars reamains a question.
+
+Headlights on new US cars may soon leap forward thanks to a little-noticesd regulation that took effect in February, allowing
+cars on American roads to use lights that intelligently adapt their beam brightness and shape in ways that will utterly change
+our expectations of headlights. It's a change the insurance companies, safety advocates and I have been eagerly awaiting.
+
+Until these new regulations were opemed up, cars sold in the US had to be on either low beam or high, never both or a mix of
+the two. Nothing smart about that. And while the term "smart" is thrown around much too loosely in tech circles (like "smart
+home" technology that is really just connected home technology), the coming smart headlights will warrant the label.
+
+Formally known as adaptive beam headlights, they rely on one or more cameras to assess the road and postion of oncoming cars,
+adjusting headlight brightness and beam shape, or "cutoff", to avoid blinding oncoming drivers while still lighting the rest
+of the road. All of this is constantly adjusted in real time as the road and the position of other cars change. Some smart
+headlights will also detect pedestrians or animals along the side of the road and highlight them.
+
+All of this is a far cry from today's "smart" headlights that merely automate switching from high to low beam, a trick cars
+have been doing with variable success since 1955.
+
+Adaptive beam headlights will be less of a technological lift than they seem because they're already on the market, just not
+here. In recent years, Audi and BMW were among the first to taunt us with adaptive beam headlights we couldn't get in the US,
+with Mercedes, Lexus, Porsche and Cadillac selling similar tech in Europe and Asia. A small percentage of cars on US roads
+may have smart headlights that are disabled in software, perhaps an easy unlock away. Mercedes Adaptive Highbeam Assist is an
+example of just such an extra-cost software upgrade.
+
+Adaptive headlights are legal in nearby Canada, where Transport Canada has gone so far as to mount an explainer campaign to
+evangelize their value to drivers. In many ways, the US has remained stubbornly behind the world in this aspect of car tech,
+and I've not been able to ever get a good answer as to why.
+
+Just because this safety breakthrough is now legal in the US doesn't mean it will be evenly distributed. Ideally, adaptive
+beam headlights would proliferate the way automatic emergency braking has in recent years, but I fear that smart headlights
+will exist in the realm of massage seats and special upholstery. They don't inexpensively leverage existing hardware with
+new software, but require sophisticated new lamp assembles that Audi describes as having a million digital micromirrors moving
+at 5KHz. Doesn't sound cheap to me. I've heard nothing yet about any potential requirement that US cars have smart headlights
+the way backup cameras have been mandatory on new cars since 2018.
+
+Consumer demand trumps all in the showroom so it will be interesting to see how many car buyers walk in demanding smart beam
+technology, since it's something you may not even know is on new cars around you when it's working well.
+
+This troubles me, since automotive headlights have a distributed safety effect, aiding both the occupants as well as those
+around the car. Airbags only benefit a car's occupants yet have been mandated for over 20 years. I'd like to see adaptive
+smart headlights be similarly required but I'm not holding my breath for an auto industry where careers are made by saving
+a dollar on a part.
+
+A number of driving customs may change with this tech, like the courteous high beam dip you (hopefully) do when you see an
+oncoming car. And the old trick of looking at your right-hand lane line while an oncoming car is blinding you may become
+a lost skill.
+
+Prepare for a complete 180 on how we think about high and low beams as the highest beam becomes our normal light mode while
+a lower beam is something that kicks in only when necessary - if we preceive that difference at all. And since all of this
+would be automated on a continuum of shape and brightness, do we lose the concept of low and high beams completely? That's
+bad news to millions of drivers given to nighttime road rage, yet moot to a large number who just use low beams, regardless
+of conditions.
+
+This wave of headlight improvement sets the stage and greases the skids for the next: Headlights that offer a form of
+augmented reality.
+
+Mercedes, Audi and Ford are among the carmakers that have shown headlights using microarrays of light emitters to display
+graphical indications on the road for navigation, pedestrian accommodation, speed limit indication and more. Headlights that
+smart might obviate current expensive head displays.
+
+Far beyond silly uses like side mirror puddle lamps, graphical projection headlights can create a rudimentary dialogue between
+a vehicle and those around it that many believe is key to the acceptance of autonomous cars. Such vehicles need to communicate
+their awareness and intent to an unsure world of pedestrians, cyclists, passengers and other human drivers. Headlights are
+perhaps the most logical place to accomplish that.
+
+While smart beam headlights are now a reality, graphic projection lights might run into a more complex thicket of federal
+state and local regulations as the content they project can run a wide gamut of benefits and risks. But the ice floe that
+US headlight tech has been locked into for decades has clearly melted.
